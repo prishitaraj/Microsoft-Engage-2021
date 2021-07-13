@@ -7,4 +7,4 @@ How to run:
 
 Demo:
 
-https://msteams-clone-prishitaraj.herokuapp.com/
+https://msteamsclone-prishitaraj.herokuapp.com/
